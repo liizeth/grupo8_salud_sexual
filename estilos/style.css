@@ -260,7 +260,7 @@ footer {
 }
 
 
-@media (min-width: 375px) {
+@media (min-width: 576px) {
     .flex-container {
         flex-direction: column;
         align-items: center;
@@ -335,7 +335,6 @@ footer {
 
     .intro {
         display: flex;
-        flex-direction: row;
         align-items: center;
     }
 
